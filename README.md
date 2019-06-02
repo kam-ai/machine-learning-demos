@@ -7,3 +7,4 @@ List of interesting machine-learning demos
 - https://www.youtube.com/watch?v=9reHvktowLY
 - https://www.youtube.com/watch?v=PCBTZh41Ris
 - https://affinelayer.com/pixsrv/
+- https://affinelayer.com/pixsrv/
