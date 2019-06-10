@@ -8,6 +8,11 @@ Below is webpages with interactiv ml-demos.
 Input a text string and the software will continue it for you.
 - https://talktotransformer.com/
 
+## Quick draw
+Draw something and let sketch-rnn guess what you're drawing.
+- https://quickdraw.withgoogle.com/ (website)
+- https://arxiv.org/abs/1704.03477 (paper)
+
 ### this person does not exist
 Faces of people that do not exist.
 - https://thispersondoesnotexist.com/
